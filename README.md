@@ -50,4 +50,4 @@ Este projeto utiliza sensores DHT22 para monitorar a temperatura de cada pneu de
 
 #### [Repositório no GitHub](https://github.com/TechSphere-Mahindra-Rancing/Sprint1-Edge-Mahindra)
 #### [Simulação no Wokwi](https://wokwi.com/projects/400411515672606721)
-#### Vídeo Explicativo
+#### [Vídeo Explicativo](https://youtu.be/cUFec4MsSQc?si=RtlBDDmwxqeOTVAF)
