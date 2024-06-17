@@ -1,5 +1,7 @@
 # Controle de Temperatura e Velocidade para Pneus de Veículo
 
+![Captura de tela 2024-06-17 113324](https://github.com/TechSphere-Mahindra-Rancing/Sprint1-Edge-Mahindra/assets/91989307/9266fcce-3d68-4f61-9fb4-79ce110c8b6e)
+
 ## Descrição
 Este projeto utiliza sensores DHT22 para monitorar a temperatura de cada pneu de um veículo e exibe as informações em um display LCD. Além disso, ele simula a velocidade do veículo com base em um potenciômetro e ajusta as temperaturas monitoradas de acordo com essa velocidade. O sistema também inclui feedback visual através de LEDs (verde, amarelo e vermelho) e sonoro através de uma buzina para alertar sobre condições de temperatura crítica.
 
@@ -46,11 +48,6 @@ Este projeto utiliza sensores DHT22 para monitorar a temperatura de cada pneu de
 
 ## Links
 
-#### Link do Repositório no GitHub:
-add link
-
-#### Link da Simulação no Wokwi:
-add link
-
-#### Link do Vídeo Explicativo:
-add link
+#### [Repositório no GitHub](https://github.com/TechSphere-Mahindra-Rancing/Sprint1-Edge-Mahindra)
+#### [Simulação no Wokwi](https://wokwi.com/projects/400411515672606721)
+#### Vídeo Explicativo
